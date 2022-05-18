@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cc53034b96c704b4aa704f806b7f978f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bonkSound: {fileID: 8300000, guid: e691bc763e181014d8deb9e1d2edda2f, type: 3}
+  - playerScoreSound: {fileID: 8300000, guid: a38794783a0be4e4eb542812fac3e334, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
